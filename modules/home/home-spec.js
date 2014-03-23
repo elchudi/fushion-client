@@ -1,6 +1,6 @@
 describe('HomeController', function() {
 
-    beforeEach(module('app'));
+    beforeEach(module('fushionApp'));
 
     var scope,ctrl;
 

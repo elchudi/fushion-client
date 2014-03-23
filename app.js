@@ -1,4 +1,4 @@
-var app = angular.module('app', [
+angular.module('fushionApp', [
     'ui.bootstrap',
     'ui.utils',
     'ui.router',

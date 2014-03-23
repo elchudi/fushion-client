@@ -1,4 +1,4 @@
-angular.module('app').config(function($stateProvider, $urlRouterProvider) {
+angular.module('fushionApp').config(function($stateProvider, $urlRouterProvider) {
 
     $urlRouterProvider.otherwise("/");
 
