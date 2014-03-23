@@ -1,11 +1,11 @@
-var app = angular.module('app', [
+angular.module('fushionApp', [
     'ui.bootstrap',
     'ui.utils',
     'ui.router',
     'ngAnimate'
 ]);
 
-angular.module('app').run(function($rootScope) {
+angular.module('fushionApp').run(function($rootScope) {
 
     $rootScope.safeApply = function(fn) {
         var phase = $rootScope.$$phase;

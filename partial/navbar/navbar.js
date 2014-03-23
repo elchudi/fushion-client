@@ -1,4 +1,4 @@
-angular.module('app').controller('NavbarController',function($scope){
+angular.module('fushionApp').controller('NavbarController',function($scope){
 
 
 });
